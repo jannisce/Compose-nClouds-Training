@@ -8,7 +8,7 @@ db_config = {
     'host': 'database',
     'user': 'root',
     'password': 'cases123',
-    'database': 'case_studies',
+    'database': 'tablaprueba',
 }
 
 # Route to display data from the database
