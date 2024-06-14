@@ -1,6 +1,6 @@
-CREATE DATABASE case_studies;
+CREATE DATABASE tablaprueba;
 
-USE case_studies;
+USE tablaprueba;
 
 CREATE TABLE case_studies (
   name   VARCHAR(255),
